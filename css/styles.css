@@ -584,9 +584,9 @@ button {
   /* display: flex;
   align-items: center;
   justify-content: center; */
-  /* opacity: 0;
+  opacity: 0;
   visibility: hidden;
-  pointer-events: none; */
+  pointer-events: none;
 }
 
 .is-open {
