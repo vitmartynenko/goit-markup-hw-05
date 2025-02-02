@@ -478,6 +478,9 @@ button {
 .social .foot-soc-list {
   display: flex;
   gap: 16px;
+}
+
+.social {
   margin-right: 80px;
 }
 
