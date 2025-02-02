@@ -653,9 +653,6 @@ button {
   margin-bottom: 16px;
 }
 
-.modal-form {
-}
-
 .modal-label {
   display: block;
   margin-bottom: 4px;
@@ -678,7 +675,7 @@ button {
 }
 
 .modal-field-comment {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-textarea {
@@ -799,6 +796,10 @@ button {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+}
+
+.modal-link-policy {
+  color: #4d5ae5;
 }
 
 .visually-hidden {
